@@ -27,6 +27,8 @@
     color: #fff;
     position: relative;
     z-index: 2;
+    text-align: center;
+    padding: 0 13px;
 }
 
 .search h1{
@@ -219,3 +221,38 @@ header .buttons i{
     height: 100%;
     object-fit: contain;
 }
+
+@media screen and (max-width: 688px) {
+    .lightbox .wrapper {
+      padding: 12px;
+      max-width: calc(100% - 26px);
+    }
+    .wrapper .preview-img {
+      margin-top: 15px;
+    }
+    header .buttons i:last-child {
+      margin-left: 7px;
+    }
+    header .photographer span, .search p {
+      font-size: 1.1rem;
+    }
+    .search h1 {
+      font-size: 1.8rem;
+    }
+    .search .search-box {
+      height: 50px;
+      margin: 30px 0;
+    }
+    .gallery .images {
+      max-width: 100%;
+      padding: 0 13px;
+      margin-top: 20px;
+    }
+    .images .details {
+      bottom: 0px;
+    }
+    .gallery .load-more {
+      padding: 10px 25px;
+      font-size: 1.05rem;
+    }
+  }
