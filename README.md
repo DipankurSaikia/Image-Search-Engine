@@ -6,7 +6,7 @@ Image search engine uses the Pexels API. It allows users to search for and displ
 
 ## Deployment
 The project is deployed in the below address:
- - [https://imagesearchinginedipankursaikia.freewebhostmost.com/](https://imagesearchinginedipankursaikia.freewebhostmost.com/)
+ - [https://dipankursaikia.github.io/Image-Search-Engine/)
  
 
 
