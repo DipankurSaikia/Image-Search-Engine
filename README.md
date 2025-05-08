@@ -22,9 +22,6 @@ The project is deployed in the below address:
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Authorization**: nkq1FM4RsrdDVAPaTy2Dtn5ywhwpW57GMvWAnrq7psEJFjfAKueot2dF |
 
-## Acknowledgement
-
-- This HTML, CSS, and JavaScript project was created following the tutorial from the [@CodingNepal](https://www.youtube.com/@CodingNepal) YouTube channel. Here, I've learned how to incorporate an API into my projects, covering aspects such as search functionality, API integration, and result display.
 
 ## 🛠 Skills
 Javascript, HTML, CSS...
